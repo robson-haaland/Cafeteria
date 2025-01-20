@@ -2,7 +2,7 @@
 [x]  Saber quando o usuário clicou no botão
 [x] Mudar o posicionamento do modal
 [x] Fazera máscara ficar visivel
-[ ] Quando clicar  na máscara, fechar o modal
+[x] Quando clicar  na máscara, fechar o modal
 */
 const modal = document.querySelector(".modal")
 const mascara = document.querySelector(".mascara-modal")
